@@ -1,0 +1,29 @@
+html, body{
+    height: 100%;
+}
+
+#controle{
+    float: right;
+    text-align: center;
+}
+
+#controle div button{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+#cenario{
+    position: relative;
+    width: 80%;
+    height: 80%;
+    background-color: #5AE;
+    margin: auto;
+    top: 5%;
+}
+
+#pardal{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #C00;
+}
